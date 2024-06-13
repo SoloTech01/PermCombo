@@ -7,4 +7,4 @@ apt install git
 apt install python3
 git clone https://github.com/SoloTech01/PermCombo.git
 cd PermCombo
-python3 PermCombo
+python3 PermCombo.py
