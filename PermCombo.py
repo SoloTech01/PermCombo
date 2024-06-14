@@ -10,7 +10,7 @@ print(""" \033[92m
 """)
 print("\033[1;33;40mLoading....")
 time.sleep(2)
-print("""\033[1;36;40m[+] Coded by SoloTech
+print("""\033[1;36;40m[+] Created by Solomon Adenuga
 [✓] PermCombo is a tool for solving permutation and combination problems""")
 def factorial(num):
 	factorial = 1
